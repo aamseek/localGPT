@@ -15,8 +15,14 @@ from constants import (
     INGEST_THREADS,
     PERSIST_DIRECTORY,
     SOURCE_DIRECTORY,
+    ROOT_DIRECTORY
 )
-
+SOURCE_DIRECTORY = f"{ROOT_DIRECTORY}/SOURCE_DOCUMENTS_EXTERNAL"
+from chromadb.config import Settings
+PERSIST_DIRECTORY = f"{ROOT_DIRECTORY}/DB1"
+CHROMA_SETTINGS = Settings(
+    chroma_db_impl="duckdb+parquet", persist_directory=PERSIST_DIRECTORY, anonymized_telemetry=False
+)
 
 def load_single_document(file_path: str) -> Document:
     # Loads a single document from a file path
@@ -117,7 +123,7 @@ def split_documents(documents: list[Document]) -> tuple[list[Document], list[Doc
 )
 def main(device_type):
     # Load documents and split in chunks
-    logging.info(f"Loading documents from {SOURCE_DIRECTORY}")
+    print(f"Loading documents from {SOURCE_DIRECTORY}")
     documents = load_documents(SOURCE_DIRECTORY)
     text_documents, python_documents = split_documents(documents)
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
@@ -126,8 +132,8 @@ def main(device_type):
     )
     texts = text_splitter.split_documents(text_documents)
     texts.extend(python_splitter.split_documents(python_documents))
-    logging.info(f"Loaded {len(documents)} documents from {SOURCE_DIRECTORY}")
-    logging.info(f"Split into {len(texts)} chunks of text")
+    print(f"Loaded {len(documents)} documents from {SOURCE_DIRECTORY}")
+    print(f"Split into {len(texts)} chunks of text")
 
     # Create embeddings
     embeddings = HuggingFaceInstructEmbeddings(
@@ -147,8 +153,8 @@ def main(device_type):
         persist_directory=PERSIST_DIRECTORY,
         client_settings=CHROMA_SETTINGS,
     )
-    db.persist()
-    db = None
+    # db.persist()
+    # db = None
 
 
 if __name__ == "__main__":

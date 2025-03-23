@@ -1,0 +1,872 @@
+2023-08-28 15:15:43,535 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:15:43,535 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:15:43,778 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:15:46,587 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:15:46,593 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:15:46,620 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:15:46,629 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:15:46,729 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:15:46,729 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:15:46,730 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:15:46,730 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 15:15:46,730 - INFO - run_localGPT_API.py:115 - This action can take a few minutes!
+2023-08-28 15:15:46,730 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:15:48,018 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 15:15:48,029 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 15:20:10,639 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 15:20:10,642 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:20:14,709 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:20:14,709 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:20:14,970 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:20:17,896 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:20:17,903 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:20:17,930 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:20:17,941 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:20:18,055 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:20:18,056 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:20:18,056 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:20:18,057 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 15:20:18,057 - INFO - run_localGPT_API.py:115 - This action can take a few minutes!
+2023-08-28 15:20:18,057 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:20:18,655 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 15:20:18,671 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 15:30:10,301 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 15:30:10,311 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:30:14,789 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:30:14,789 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:30:15,069 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:30:18,008 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:30:18,014 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:30:18,032 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:30:18,043 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:30:18,143 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:30:18,144 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:30:18,145 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:30:18,145 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 15:30:18,145 - INFO - run_localGPT_API.py:115 - This action can take a few minutes!
+2023-08-28 15:30:18,145 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:30:19,254 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 15:30:19,270 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 15:30:54,227 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:31:29,388 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:31:29,388 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:31:29,673 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:31:32,669 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:31:32,681 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:31:32,720 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:31:32,733 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:31:32,849 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:31:32,850 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:31:32,850 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:31:32,850 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 15:31:32,850 - INFO - run_localGPT_API.py:115 - This action can take a few minutes!
+2023-08-28 15:31:32,850 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:31:33,761 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 15:31:33,762 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 15:31:33,762 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 15:31:36,416 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:31:36,416 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:31:36,652 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:31:39,775 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:31:39,779 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:31:39,833 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:31:39,840 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:31:39,918 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:31:39,918 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:31:39,919 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:31:39,919 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 15:31:39,919 - INFO - run_localGPT_API.py:115 - This action can take a few minutes!
+2023-08-28 15:31:39,919 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:31:40,883 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 15:31:40,897 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 15:40:48,776 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 15:40:48] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 15:41:24,779 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 15:41:24,786 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:41:26,780 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 15:41:30,658 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:41:30,658 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:41:30,960 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:41:33,822 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:41:33,829 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:41:33,851 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:41:33,863 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:41:33,992 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:41:33,993 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:41:33,994 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:41:33,994 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 15:41:33,994 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:41:35,192 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 15:41:35,207 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 15:43:31,059 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 15:43:31,063 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:43:32,269 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 15:43:35,239 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:43:35,239 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:43:35,506 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:43:36,485 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:43:41,416 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:43:41,416 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:43:41,599 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:43:44,650 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:43:44,656 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:43:44,671 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:43:44,682 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:43:44,783 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:43:44,783 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:43:44,784 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:43:44,785 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 15:43:44,785 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:43:45,963 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 15:43:45,963 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 15:43:45,964 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 15:43:48,633 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:43:48,633 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:43:48,878 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:43:51,885 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:43:51,893 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:43:51,920 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:43:51,929 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:43:52,008 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:43:52,009 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:43:52,009 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:43:52,009 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 15:43:52,009 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:43:52,404 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 15:43:52,419 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 15:43:52,435 - INFO - run_localGPT_API.py:445 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 15:52:45,454 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 15:52:45] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 15:55:00,041 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 15:55:00,054 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:55:01,858 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 15:55:05,186 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:55:05,186 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:55:05,468 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:55:08,338 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:55:08,343 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:55:08,378 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:55:08,388 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:55:08,503 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:55:08,503 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:55:08,504 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:55:08,504 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 15:55:08,504 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:55:09,278 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 15:55:09,291 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 15:55:41,076 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 15:55:41,081 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:55:42,448 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 15:55:45,180 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 15:55:45,180 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 15:55:45,438 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 15:55:48,464 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 15:55:48,470 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 15:55:48,486 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 15:55:48,495 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 15:55:48,577 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 15:55:48,579 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 15:55:48,580 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 15:55:48,580 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 15:55:48,580 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 15:55:49,372 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 15:55:49,384 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 15:55:51,626 - INFO - run_localGPT_API.py:445 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 16:04:28,077 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 16:04:28] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 16:09:18,473 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 16:09:18,480 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:09:19,689 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:09:23,101 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:09:23,102 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:09:23,411 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:09:26,637 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:09:26,645 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:09:26,686 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:09:26,697 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:09:26,814 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:09:26,815 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:09:26,815 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:09:26,816 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:09:26,816 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:09:27,481 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 16:09:27,495 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 16:09:54,470 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:09:54,751 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:09:59,893 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:09:59,893 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:10:00,131 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:10:03,154 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:10:03,161 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:10:03,178 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:10:03,188 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:10:03,304 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:10:03,305 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:10:03,306 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:10:03,306 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:10:03,306 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:10:03,881 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 16:10:03,881 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 16:10:03,882 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:10:06,574 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:10:06,574 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:10:06,812 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:10:10,007 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:10:10,017 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:10:10,033 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:10:10,047 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:10:10,122 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:10:10,122 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:10:10,123 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:10:10,123 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:10:10,123 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:10:10,576 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 16:10:10,610 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 16:10:10,643 - INFO - run_localGPT_API.py:458 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 16:18:44,847 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 16:18:44] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 16:23:48,745 - INFO - run_localGPT_API.py:496 - User Prompt: what was total payment amount on 2017-03-27; cr_pmnt_dtl
+2023-08-28 16:23:49,274 - ERROR - url.py:143 - Error fetching or processing  cr_pmnt_dtl, exception: Invalid URL 'cr_pmnt_dtl': No scheme supplied. Perhaps you meant https://cr_pmnt_dtl?
+2023-08-28 16:23:49,292 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:23:49,292 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB1
+2023-08-28 16:23:49,357 - INFO - duckdb.py:460 - loaded in 142 embeddings
+2023-08-28 16:23:49,358 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:23:49,359 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:23:54,160 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 16:23:54] "[35m[1mPOST /api/web_route HTTP/1.1[0m" 500 -
+2023-08-28 16:25:02,417 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 16:25:02,426 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB1
+2023-08-28 16:25:02,499 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:25:04,010 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:25:07,427 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:25:07,427 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:25:07,719 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:25:10,455 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:25:10,462 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:25:10,482 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:25:10,495 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:25:10,609 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:25:10,609 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:25:10,610 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:25:10,610 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:25:10,610 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:25:11,668 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 16:25:11,698 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 16:25:48,293 - INFO - run_localGPT_API.py:496 - User Prompt: what was total payment amount on 2017-03-27; cr_pmnt_dtl
+2023-08-28 16:25:48,634 - ERROR - url.py:143 - Error fetching or processing  cr_pmnt_dtl, exception: Invalid URL 'cr_pmnt_dtl': No scheme supplied. Perhaps you meant https://cr_pmnt_dtl?
+2023-08-28 16:25:48,638 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:25:48,638 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB1
+2023-08-28 16:25:48,646 - INFO - duckdb.py:460 - loaded in 142 embeddings
+2023-08-28 16:25:48,649 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:25:48,649 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:25:49,353 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 16:25:49] "[35m[1mPOST /api/web_route HTTP/1.1[0m" 500 -
+2023-08-28 16:26:46,850 - INFO - run_localGPT_API.py:458 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 16:26:48,088 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 16:26:48] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 16:27:07,749 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB1
+2023-08-28 16:27:07,774 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:27:08,022 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:27:13,920 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:27:13,920 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:27:14,198 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:27:16,999 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:27:17,007 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:27:17,030 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:27:17,042 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:27:17,157 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:27:17,157 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:27:17,158 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:27:17,158 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:27:17,158 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:27:17,695 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 16:27:17,695 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 16:27:17,696 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:27:20,645 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:27:20,645 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:27:20,896 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:27:24,262 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:27:24,271 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:27:24,294 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:27:24,308 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:27:24,392 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:27:24,392 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:27:24,393 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:27:24,393 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:27:24,393 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:27:24,831 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 16:27:24,845 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 16:27:24,864 - INFO - run_localGPT_API.py:496 - User Prompt: what was total payment amount on 2017-03-27; cr_pmnt_dtl
+2023-08-28 16:27:25,025 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:27:25,173 - ERROR - url.py:143 - Error fetching or processing  cr_pmnt_dtl, exception: Invalid URL 'cr_pmnt_dtl': No scheme supplied. Perhaps you meant https://cr_pmnt_dtl?
+2023-08-28 16:27:25,176 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:27:25,176 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB1
+2023-08-28 16:27:25,181 - INFO - duckdb.py:460 - loaded in 142 embeddings
+2023-08-28 16:27:25,182 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:27:25,182 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:27:25,304 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:27:31,297 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:27:31,297 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:27:31,577 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:27:34,368 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:27:34,374 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:27:34,389 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:27:34,398 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:27:34,470 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:27:34,471 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:27:34,471 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:27:34,471 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:27:34,471 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:27:34,923 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 16:27:34,923 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 16:27:34,923 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:27:37,600 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:27:37,600 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:27:37,843 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:27:41,080 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:27:41,102 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:27:41,128 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:27:41,147 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:27:41,235 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:27:41,236 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:27:41,237 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:27:41,238 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:27:41,238 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:27:41,650 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 16:27:41,663 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 16:27:41,724 - INFO - run_localGPT_API.py:458 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 16:27:42,409 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 16:27:42] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 16:28:51,314 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 16:28:51,317 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:28:52,591 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:28:54,213 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:28:59,801 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:28:59,801 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:29:00,077 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:29:03,243 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:29:03,254 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:29:03,308 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:29:03,320 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:29:03,423 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:29:03,424 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:29:03,425 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:29:03,425 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:29:03,425 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:29:04,459 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 16:29:04,459 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 16:29:04,459 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:29:07,160 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:29:07,160 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:29:07,405 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:29:10,335 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:29:10,343 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:29:10,391 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:29:10,400 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:29:10,486 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:29:10,486 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:29:10,487 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:29:10,487 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:29:10,487 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:29:11,474 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 16:29:11,488 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 16:44:01,979 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 16:44:01,992 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:44:03,416 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:44:06,629 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:44:06,629 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:44:06,906 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:44:09,847 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:44:09,856 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:44:09,884 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:44:09,896 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:44:10,002 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:44:10,002 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:44:10,003 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:44:10,004 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:44:10,004 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:44:10,981 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 16:44:10,995 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 16:59:41,409 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 16:59:41,424 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:59:42,405 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 16:59:45,763 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 16:59:45,763 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 16:59:46,039 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 16:59:49,085 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 16:59:49,091 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:59:49,106 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 16:59:49,116 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 16:59:49,233 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 16:59:49,234 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 16:59:49,235 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 16:59:49,236 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 16:59:49,236 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 16:59:49,859 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 16:59:49,871 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 16:59:57,615 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 16:59:57,894 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:00:03,510 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:00:03,510 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:00:03,775 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:00:06,502 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:00:06,510 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:00:06,554 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:00:06,562 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:00:06,638 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:00:06,639 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:00:06,639 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:00:06,639 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:00:06,639 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:00:07,703 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 17:00:07,703 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 17:00:07,704 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:00:10,412 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:00:10,412 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:00:10,687 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:00:13,681 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:00:13,694 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:00:13,764 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:00:13,773 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:00:13,854 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:00:13,855 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:00:13,855 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:00:13,856 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:00:13,856 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:00:14,396 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 17:00:14,413 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 17:00:21,035 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; omnifin;cr_pmnt_dtl
+2023-08-28 17:00:22,086 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 17:00:22] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 17:00:43,010 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 17:00:44,901 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 17:00:44] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 17:04:07,284 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 17:04:07,291 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:04:08,548 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:04:10,322 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:04:14,663 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:04:14,663 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:04:14,942 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:04:17,826 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:04:17,837 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:04:17,899 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:04:17,909 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:04:18,027 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:04:18,028 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:04:18,029 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:04:18,029 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:04:18,029 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:04:18,586 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 17:04:18,586 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 17:04:18,587 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:04:21,418 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:04:21,418 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:04:21,679 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:04:24,916 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:04:24,923 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:04:24,947 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:04:24,956 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:04:25,041 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:04:25,042 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:04:25,042 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:04:25,043 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:04:25,043 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:04:25,931 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 17:04:25,974 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 17:04:27,973 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:04:28,330 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:04:34,960 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:04:34,960 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:04:35,206 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:04:38,115 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:04:38,121 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:04:38,172 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:04:38,182 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:04:38,304 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:04:38,305 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:04:38,306 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:04:38,306 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:04:38,306 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:04:39,253 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 17:04:39,253 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 17:04:39,254 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:04:41,973 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:04:41,973 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:04:42,226 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:04:45,323 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:04:45,330 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:04:45,391 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:04:45,402 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:04:45,521 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:04:45,522 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:04:45,523 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:04:45,524 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:04:45,524 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:04:45,943 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 17:04:45,961 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 17:04:46,828 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 17:04:47,615 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 17:04:47] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 17:07:55,800 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 17:07:55,805 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:07:56,643 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:07:59,905 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:07:59,905 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:08:00,172 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:08:02,921 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:08:07,865 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:08:07,865 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:08:08,115 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:08:10,891 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:08:10,897 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:08:10,912 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:08:10,924 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:08:11,031 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:08:11,031 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:08:11,032 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:08:11,033 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:08:11,033 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:08:12,071 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 17:08:12,071 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 17:08:12,072 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:08:14,630 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:08:14,631 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:08:14,867 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:08:18,047 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:08:18,053 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:08:18,065 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:08:18,074 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:08:18,147 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:08:18,148 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:08:18,148 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:08:18,148 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:08:18,148 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:08:18,509 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 17:08:18,523 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 17:08:18,541 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; omnifin;cr_pmnt_dtl
+2023-08-28 17:08:19,374 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 17:08:19] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 17:08:50,371 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 17:17:21,212 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 17:17:21] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 17:26:02,156 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 17:26:02,167 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:26:03,924 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:26:07,283 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:26:07,283 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:26:07,577 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:26:10,495 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:26:10,505 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:26:10,553 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:26:10,563 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:26:10,681 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:26:10,682 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:26:10,683 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:26:10,683 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:26:10,683 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:26:11,446 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 17:26:11,460 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 17:26:23,520 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 17:35:07,070 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 17:35:07] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 17:37:17,606 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 17:37:17,615 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:37:19,051 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:37:22,400 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:37:22,400 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:37:22,695 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:37:26,238 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:37:26,245 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:37:26,263 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:37:26,278 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:37:26,381 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:37:26,382 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:37:26,383 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:37:26,383 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:37:26,383 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:37:27,051 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 17:37:27,068 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 17:37:33,791 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 17:46:19,023 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 17:46:19] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 17:48:29,714 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 17:48:29,717 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:48:31,285 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:48:35,045 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:48:35,045 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:48:35,343 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:48:38,491 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:48:38,498 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:48:38,518 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:48:38,533 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:48:38,649 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:48:38,650 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:48:38,650 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:48:38,651 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 17:48:38,651 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:48:39,597 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 17:48:39,610 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 17:48:41,676 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 17:48:41,681 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:48:42,755 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:48:45,307 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:48:45,307 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:48:45,819 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:48:50,745 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:48:50,746 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:48:50,939 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:48:53,915 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:48:53,922 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:48:53,938 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:48:53,949 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:48:54,076 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:48:54,077 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:48:54,078 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:48:54,078 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 17:48:54,078 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:48:54,650 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 17:48:54,650 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 17:48:54,650 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 17:48:57,262 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 17:48:57,262 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 17:48:57,511 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 17:49:00,652 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 17:49:00,657 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 17:49:00,673 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 17:49:00,683 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 17:49:00,764 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 17:49:00,765 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 17:49:00,765 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 17:49:00,765 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 17:49:00,765 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 17:49:01,418 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 17:49:01,431 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 17:49:01,451 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 18:19:16,662 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 18:19:16] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 18:31:24,035 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 18:31:24,334 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 18:32:44,787 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 18:32:44,788 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 18:32:45,116 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 18:32:48,136 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 18:32:48,145 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 18:32:48,212 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 18:32:48,223 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 18:32:48,339 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 18:32:48,340 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 18:32:48,341 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 18:32:48,341 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 18:32:48,341 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 18:32:49,249 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 18:32:49,249 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 18:32:49,249 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 18:32:52,241 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 18:32:52,241 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 18:32:52,524 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 18:32:55,582 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 18:32:55,591 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 18:32:55,653 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 18:32:55,662 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 18:32:55,776 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 18:32:55,777 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 18:32:55,777 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 18:32:55,778 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/orca_mini_3B-GGML, on: mps
+2023-08-28 18:32:55,778 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 18:32:56,626 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 18:32:56,642 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 18:34:20,854 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 18:43:03,507 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 18:43:03] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 18:49:03,205 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 18:49:03,209 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 18:49:04,892 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 18:49:08,101 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 18:49:08,101 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 18:49:08,558 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 18:49:13,412 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 18:49:13,412 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 18:49:13,642 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 18:49:16,710 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 18:49:16,722 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 18:49:16,795 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 18:49:16,806 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 18:49:16,912 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 18:49:16,913 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 18:49:16,914 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 18:49:16,914 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 18:49:16,914 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 18:49:18,194 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 18:49:18,194 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 18:49:18,195 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 18:49:21,283 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 18:49:21,283 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 18:49:21,542 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 18:49:24,698 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 18:49:24,711 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 18:49:24,774 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 18:49:24,783 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 18:49:24,903 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 18:49:24,903 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 18:49:24,904 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 18:49:24,905 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 18:49:24,905 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 18:49:25,883 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 18:49:25,895 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 18:49:25,922 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 19:21:08,761 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 19:21:08] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 19:43:06,169 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 19:43:06,186 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 19:43:08,128 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 19:43:09,688 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 19:43:15,631 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 19:43:15,631 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 19:43:16,043 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 19:43:19,243 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 19:43:19,260 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 19:43:19,336 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 19:43:19,350 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 19:43:19,470 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 19:43:19,470 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 19:43:19,471 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 19:43:19,471 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Wizard-Vicuna-7B-Uncensored-GGML, on: mps
+2023-08-28 19:43:19,471 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 19:43:20,305 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 19:43:20,305 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 19:43:20,306 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 19:43:23,597 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 19:43:23,600 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 19:43:23,948 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 19:43:27,499 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 19:43:27,510 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 19:43:27,552 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 19:43:27,562 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 19:43:27,689 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 19:43:27,690 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 19:43:27,691 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 19:43:27,692 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Wizard-Vicuna-7B-Uncensored-GGML, on: mps
+2023-08-28 19:43:27,692 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 19:43:28,139 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 19:43:28,159 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 19:43:28,707 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 19:57:15,246 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 19:57:15] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 20:17:49,701 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 20:17:50,001 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 20:32:37,892 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 20:32:37,892 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 20:32:38,175 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 20:32:41,136 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 20:32:41,145 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 20:32:41,193 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 20:32:41,204 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 20:32:41,320 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 20:32:41,320 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 20:32:41,321 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 20:32:41,321 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 20:32:41,321 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 20:32:42,079 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 20:32:42,079 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 20:32:42,080 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 20:32:45,143 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 20:32:45,143 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 20:32:45,389 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 20:32:48,243 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 20:32:48,248 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 20:32:48,262 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 20:32:48,270 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 20:32:48,397 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 20:32:48,397 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 20:32:48,398 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 20:32:48,399 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 20:32:48,399 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 20:32:49,490 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 20:32:49,506 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 20:32:57,097 - INFO - run_localGPT_API.py:459 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 20:32:57,151 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 20:32:57] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 20:33:56,092 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 20:33:56,098 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 20:33:57,166 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 20:33:59,408 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 20:34:05,654 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 20:34:05,654 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 20:34:05,911 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 20:34:08,725 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 20:34:08,739 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 20:34:08,787 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 20:34:08,799 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 20:34:08,916 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 20:34:08,917 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 20:34:08,917 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 20:34:08,918 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 20:34:08,918 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 20:34:10,048 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-28 20:34:10,048 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-28 20:34:10,049 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 20:34:13,372 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 20:34:13,372 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 20:34:13,661 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 20:34:16,680 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 20:34:16,686 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 20:34:16,701 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 20:34:16,712 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 20:34:16,831 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 20:34:16,832 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 20:34:16,833 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 20:34:16,833 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 20:34:16,833 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 20:34:17,837 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 20:34:17,850 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 20:40:10,364 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 20:40:10,456 - INFO - _internal.py:187 - 127.0.0.1 - - [28/Aug/2023 20:40:10] "[35m[1mPOST /api/sql_route HTTP/1.1[0m" 500 -
+2023-08-28 21:10:45,167 - INFO - _internal.py:187 -  * Detected change in '/Users/mayankaamseek/Documents/IncredGPT/run_localGPT_API.py', reloading
+2023-08-28 21:10:45,179 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 21:10:46,726 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-28 21:10:50,251 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-28 21:10:50,251 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-28 21:10:50,537 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-28 21:10:53,496 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-28 21:10:53,503 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 21:10:53,531 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-28 21:10:53,542 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-28 21:10:53,662 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-28 21:10:53,663 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-28 21:10:53,663 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-28 21:10:53,663 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-28 21:10:53,663 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-28 21:10:55,256 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-28 21:10:55,285 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-28 21:13:48,848 - INFO - run_localGPT_API.py:456 - User Prompt: what was total payment amount on 2017-03-27; beefin_uat;cr_pmnt_dtl
+2023-08-28 21:18:44,460 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-28 21:18:44,744 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-29 07:44:20,875 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-29 07:44:20,876 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-29 07:44:21,176 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-29 07:44:24,075 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-29 07:44:24,087 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-29 07:44:24,176 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-29 07:44:24,188 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-29 07:44:24,308 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-29 07:44:24,308 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-29 07:44:24,309 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-29 07:44:24,309 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-29 07:44:24,309 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-29 07:44:25,615 - INFO - _internal.py:187 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5110
+2023-08-29 07:44:25,615 - INFO - _internal.py:187 - [33mPress CTRL+C to quit[0m
+2023-08-29 07:44:25,616 - INFO - _internal.py:187 -  * Restarting with stat
+2023-08-29 07:44:28,806 - INFO - run_localGPT_API.py:59 - Running on: mps
+2023-08-29 07:44:28,806 - INFO - run_localGPT_API.py:60 - Display Source Documents set to: True
+2023-08-29 07:44:29,055 - INFO - SentenceTransformer.py:66 - Load pretrained SentenceTransformer: hkunlp/instructor-large
+2023-08-29 07:44:32,042 - INFO - __init__.py:88 - Running Chroma using direct local API.
+2023-08-29 07:44:32,051 - WARNING - __init__.py:43 - Using embedded DuckDB with persistence: data will be stored in: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-29 07:44:32,093 - INFO - ctypes.py:22 - Successfully imported ClickHouse Connect C data optimizations
+2023-08-29 07:44:32,101 - INFO - json_impl.py:45 - Using python library for writing JSON byte strings
+2023-08-29 07:44:32,216 - INFO - duckdb.py:460 - loaded in 93 embeddings
+2023-08-29 07:44:32,216 - INFO - duckdb.py:472 - loaded in 1 collections
+2023-08-29 07:44:32,217 - INFO - duckdb.py:89 - collection with name langchain already exists, returning existing collection
+2023-08-29 07:44:32,217 - INFO - run_localGPT_API.py:114 - Loading Model: TheBloke/Nous-Hermes-Llama2-GGML, on: mps
+2023-08-29 07:44:32,217 - INFO - run_localGPT_API.py:119 - Using Llamacpp for quantized models
+2023-08-29 07:44:33,088 - WARNING - _internal.py:187 -  * Debugger is active!
+2023-08-29 07:44:33,102 - INFO - _internal.py:187 -  * Debugger PIN: 262-948-626
+2023-08-29 10:04:38,761 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
+2023-08-29 10:04:39,036 - INFO - duckdb.py:414 - Persisting DB to disk, putting it in the save folder: /Users/mayankaamseek/Documents/IncredGPT/DB
